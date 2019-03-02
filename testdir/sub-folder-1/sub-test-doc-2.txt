@@ -1,0 +1,3 @@
+sub-test-doc-2
+
+I AM CHANGED AFTER HASHING

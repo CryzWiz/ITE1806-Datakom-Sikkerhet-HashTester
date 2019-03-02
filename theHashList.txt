@@ -1,0 +1,13 @@
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-sub-folder-1\sub-sub-test-doc-1.txt 74cb5399a49f80e26ff528eb10b048d591c913f2a8666ee3e37b9478d522be97
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-sub-folder-1\sub-sub-test-doc-2.txt 66514d1a304b6b0a767aa3e2f6fdf4eda95ff63c13b735b654ffc085142401b7
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-sub-folder-1\sub-sub-test-doc-3.txt 3a1b846cecd090b413262002ec36a026ffb1d86b5fad5d96e2fa35649b3c65a3
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-sub-folder-1\sub-sub-test-doc-4.txt 93d446e214adba573aa212f7f647089f747df85a1b72e25747a390b979a3098e
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-test-doc-1.txt 777b520cb0a6c2d810db1006263ed273710fc74cbe421ce1893dfe2f35c94d96
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-test-doc-2.txt 3b0dc6693b68378b0fb3839796579ab855b5f0a97b533c5be1a78098c4b22b49
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-test-doc-3.txt dbd8663aa5b8fab6ae5341bc1b8e319d906199bd779d6a43d9ab2b25bbbd60d1
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\sub-folder-1\sub-test-doc-4.txt 240b6fcbe795eb54984f5e14998e7d5795a8d4ad74ede0f6a55a84ae3576b4d3
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\test-doc-1.txt e1c24424524c7d72d511366fc30fec7dedc6d408c5d35cdf27b0bdc718a322a7
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\test-doc-2.txt 874d036b28dc8d7e8258d74ae7efe3a0a7224ebd892ae5b497b677135943412e
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\test-doc-3.txt 3b04c4d315003fc272b995bef291b5e0c7a2f595f8a6221eacb7ea4dca80d532
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\test-doc-4.txt 37b85133fee4871daf2d2db37d62acfdd41b445b521bf81667d4a90df10d993a
+C:\Users\Eier\git\Oblig5-ITE1806\Oblig5-ITE1806\testdir\testSingleFile.txt a3bbd1daf2464e23bc19b427272b805c5838614bbca620caf22ea32491472042
